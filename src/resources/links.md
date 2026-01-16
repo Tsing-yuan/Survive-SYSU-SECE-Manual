@@ -1,5 +1,4 @@
-﻿# 一些在线工具
-# 一些在线工具
+﻿# 在线工具分享
 
 将会分享我觉得非常有用的一些软件和网页资源，多少节省一点时间，希望对阅读到这里的你有所帮助。
 
@@ -36,7 +35,7 @@
 - [Runoob C++ 教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)  
 - [Bilibili 视频](https://www.bilibili.com/video/BV13U4y1p7kB/?spm_id_from=333.337.search-card.all.click&vd_source=18c4a8ae764173814be996bf31c71324)  
 - [Gemini3](https://aistudio.google.com/prompts/new_chat)
-
+- [Coze编程](https://code.coze.cn/home) 字节的Coze包含[Coze空间](https://space.coze.cn/collection)，[Coze编程](https://code.coze.cn/home)，[Coze智能体](https://www.coze.cn/space/7488625918454530085/develop?force_stay=1)几大功能，我认为还是非常强力和好用并且适合学习的。
 在现在这个版本，AI 已经超越了传统的互联网搜索引擎，善用 GPT、Claude、DeepSeek、元宝、豆包、通义、Kimi 才能跟得上节奏。
 
 一般大厂也有自己的代码 agent，能帮你读代码、梳理逻辑。

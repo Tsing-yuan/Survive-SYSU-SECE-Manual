@@ -5,7 +5,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "build": "vuepress build src", 
+    "build": "vuepress build src",
     "docs:build": "vuepress build src",
     "docs:clean-dev": "vuepress dev src --clean-cache",
     "docs:dev": "vuepress dev src"
@@ -21,5 +21,12 @@
   "engines": {
     "node": ">=18.19.0"
   },
-  "packageManager": "pnpm@9.15.0"
+  "packageManager": "pnpm@9.15.0",
+  "dependencies": {
+    "@mdx-js/loader": "^3.1.1",
+    "@next/mdx": "^16.0.10",
+    "katex": "^0.16.27",
+    "rehype-katex": "^7.0.1",
+    "remark-math": "^6.0.0"
+  }
 }

@@ -51,5 +51,5 @@ features:
     details: 内容持续维护更新，欢迎更多社区成员共同建设这个属于 SYSUer 的知识库。
 
 copyright: false
-footer: MIT LICENSE | Copyright © 2025-present Redem-cat
+footer:  CC BY-NC-SA 4.0 | Copyright © 2026-present Redem-cat
 ---
