@@ -135,6 +135,9 @@ pnpm docs:clean-dev
 pnpm docs:build
 ```
 
+#如果不想参与代码开发而只想要进行经验分享
+###如果你不熟悉github或者不想要进行太多代码的编辑，则下载项目，点击项目目录下src文件夹编辑里面的mardown文件后通过邮件、QQ等方式提交给我即可。
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Redem-cat/Survive-SYSU-SECE-Manual&type=Timeline)](https://star-history.com/#Redem-cat/Survive-SYSU-SECE-Manual&Timeline)
