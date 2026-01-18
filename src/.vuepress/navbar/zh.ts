@@ -36,6 +36,11 @@ export const zhNavbar = navbar([
         icon: "3", // 或者用 "user-graduate"
         link: "junior/",
       },
+      {
+      text: "大四 (Senior)",
+      icon: "4",
+      link: "senior/",
+      },
     ],
   },
 
@@ -43,7 +48,7 @@ export const zhNavbar = navbar([
   {
     text: "资源汇总",
     icon: "toolbox", // FA图标: toolbox
-    link: "/resources/README.md", 
+    link: "/resources/", 
   },
 
   // 5. 关于项目

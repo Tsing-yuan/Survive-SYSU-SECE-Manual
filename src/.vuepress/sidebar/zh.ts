@@ -29,6 +29,13 @@ export const zhSidebar = sidebar({
           collapsible: true,
           children: "structure",
         },
+        {
+        text: "大四 (Senior)",
+        icon: "4",
+        prefix: "SECE/senior/",
+        collapsible: true,
+        children: "structure",
+        },
       ],
     },
   ],
@@ -54,6 +61,6 @@ export const zhSidebar = sidebar({
 
  
   "/": [
-    "", // 首页 README.md
+    "", 
   ],
 });

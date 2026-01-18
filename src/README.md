@@ -31,7 +31,7 @@ features:
   - title: 实用工具与资源
 
     icon: fa-solid fa-toolbox
-    link: /resources/README.html
+    link: /resources/1.courses.html
     details: 常用开发环境配置、软件安装、以及历年复习资料链接整理。
 
   - title: 生涯规划
