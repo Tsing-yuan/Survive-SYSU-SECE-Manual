@@ -54,7 +54,7 @@ export default hopeTheme({
       provider: "Giscus",
       repo: "Redem-cat/Survive-SYSU-SECE-Manual",
       repoId: "R_kgDOPQRJWw", 
-      category: "Announcements", 
+      category: "General", 
       categoryId: "DIC_kwDOPQRJW84CyEYS",
       mapping: "pathname", 
     },
