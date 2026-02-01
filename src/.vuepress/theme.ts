@@ -3,14 +3,15 @@ import { zhNavbar } from "./navbar";
 import { zhSidebar } from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://redem-cat.github.io/Survive-SYSU-SECE-Manual/",
+  hostname: "https://www.survive-sysu.online",
+
   author: {
     name: "Redem-cat",
     url: "https://github.com/Redem-cat",
     email: "1323746368@qq.com",
   },
 
-  iconAssets: "fontawesome-with-brands", 
+  iconAssets: "fontawesome-with-brands",
   logo: "/logo.png",
 
   repo: "Redem-cat/Survive-SYSU-SECE-Manual",
@@ -19,7 +20,7 @@ export default hopeTheme({
 
   navbar: zhNavbar,
   sidebar: zhSidebar,
-  
+
   sidebarSorter: ["filename", "order", "date", "readme"],
 
   copyright: "MIT Licensed | Copyright © 2025-present Redem-cat",
@@ -27,21 +28,25 @@ export default hopeTheme({
   metaLocales: {
     editLink: "在 GitHub 上编辑此页",
   },
-
   markdown: {
-    align: true,       
-    figure: true,     
-    imgLazyload: true, 
-    imgSize: true,    
-    tasklist: true,   
-    hint: true,        
-    alert: true,      
-    tabs: true,      
-    codeTabs: true,   
-    math: true,       
+    align: true,
+    figure: true,
+    imgLazyload: true,
+    imgSize: true,
+    tasklist: true,
+    hint: true,
+    alert: true,
+    tabs: true,
+    codeTabs: true, 
+    math: true, 
+    // mermaid: true,
+    // flowchart: true,
   },
 
   plugins: {
+    seo: true,
+    sitemap: true,
+
     readingTime: {
       wordPerMinute: 150,
     },
@@ -53,10 +58,10 @@ export default hopeTheme({
     comment: {
       provider: "Giscus",
       repo: "Redem-cat/Survive-SYSU-SECE-Manual",
-      repoId: "R_kgDOPQRJWw", 
-      category: "General", 
+      repoId: "R_kgDOPQRJWw",
+      category: "General",
       categoryId: "DIC_kwDOPQRJW84CyEYS",
-      mapping: "pathname", 
+      mapping: "pathname",
     },
   },
 });
