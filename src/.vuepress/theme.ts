@@ -23,7 +23,7 @@ export default hopeTheme({
 
   sidebarSorter: ["filename", "order", "date", "readme"],
 
-  copyright: "MIT Licensed | Copyright © 2025-present Redem-cat",
+  copyright: "MIT Licensed | Copyright © 2026-present Redem-cat",
   displayFooter: true,
   metaLocales: {
     editLink: "在 GitHub 上编辑此页",
@@ -46,7 +46,7 @@ export default hopeTheme({
   plugins: {
     seo: true,
     sitemap: true,
-
+    
     readingTime: {
       wordPerMinute: 150,
     },
